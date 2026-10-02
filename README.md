@@ -1,8 +1,8 @@
-# FinPulse — Professional Financial Dashboard
+# Financial-Data-Dashboard — Professional Financial Dashboard
 
 > A full-stack MERN portfolio tracker that solves what existing dashboards miss.
 
-## What Makes FinPulse Different
+## What Makes Financial-Data-Dashboard Different
 
 | Problem with existing tools | How FinPulse solves it |
 |-----------------------------|------------------------|
